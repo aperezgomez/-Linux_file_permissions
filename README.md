@@ -29,6 +29,7 @@ Others can only read (r) the file.
 
 Change file permissions:
 For example, we don't want Other users to have write access on project_k.txt. We can restrict their access using the chmod command:
+
 ![image](https://github.com/aperezgomez/-Linux_file_permissions/assets/120771676/445b8278-f760-43a2-ad29-f96ea70b9f4d)
 
 
