@@ -1,0 +1,8 @@
+File permissions in Linux
+
+Project description:
+In this task, we're going to inspect the current permissions of files and directories in the /home/researcher2/projects directory and adjust them if necessary, ensuring that only authorized users and groups have the necessary permissions, while unauthorized users are restricted.
+
+Check file and directory details:
+To inspect the current permissions, use the ls command with the -l option:
+
